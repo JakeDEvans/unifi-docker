@@ -1,3 +1,6 @@
+# Unifi 5.14.22 FORK
+This fork of https://github.com/jacobalberty/unifi-docker (https://hub.docker.com/r/jacobalberty/unifi) for 5.14 (Wifi6 AP Lite EA), please switch back as soon as primary is available on 5.14
+
 # unifi-docker
 
 ## Run as non-root User
